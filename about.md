@@ -13,4 +13,4 @@ Always discovering new payload delivery techniques.
 <br/>
 Get in touch with me at [@exandroiddev](https://twitter.com/exandroiddev){:target="_blank"}
 <br/>
-Hire me for a [penetration test](https://pentestwizard.com/)
+Hire me for a [penetration test](https://pentestking.com/)
